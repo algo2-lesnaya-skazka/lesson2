@@ -4,22 +4,33 @@ Python 3
 https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
 
 print(2 + 2)
+
 print("B" + "Y" ∗ 20)
+
 print("PYTHON!")
+
 print("<3")
+
 print("Minecraft")
+
 
 MCPI
 https://pypi.org/project/mcpi/
 
 pip install mcpi
+
 from mcpi.minecraft import Minecraft
+
 mc = Minecraft.create()
+
 mc.player.setTilePos(0, 120, 0)
 
+
 Editor
+
 Visual Studio Code
 https://code.visualstudio.com/Download
+
 Russian - Language Russian Pack - Configure Display Language
 
 Minecraft Server Spigot
